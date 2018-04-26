@@ -5,3 +5,4 @@ This repository contains the following projects:
 -Bot
 -Tab
 -Azure
+-Scripts
